@@ -1,0 +1,6 @@
+{
+  "name": "Rimwa's Ultimate Study System & Personal Tutor | ريموا القمر",
+  "description": "النظام الدراسي الشامل والمعلم الخصوصي بحب وحنان من أحمد لـ مريم (ريموا القمر) حبيبة أحمد وكل حاجة في حياته - الشهادة الإعدادية المصرية: شرح مبسط ودقيق، بنك امتحانات، ودعم نفسي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
